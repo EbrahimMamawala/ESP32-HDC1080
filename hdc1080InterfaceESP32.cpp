@@ -4,9 +4,9 @@
 #include <PubSubClient.h>
 #include "ClosedCube_HDC1080.h" // Include the HDC1080 library
 
-#define wifi_ssid “" 
-#define wifi_password “"
-#define mqtt_server “" 
+#define wifi_ssid "" 
+#define wifi_password ""
+#define mqtt_server "" 
 
 #define mqtt_topic "sensor/HDC1080"
 
